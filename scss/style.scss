@@ -1,0 +1,71 @@
+@import "~bootstrap/scss/bootstrap";
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    background-color: yellow;
+}
+.card {
+    height: 35em;
+    img {
+        height: 25em;
+    }
+}
+
+
+.row {
+    margin: auto;
+    justify-content: center;
+}
+footer{
+    border-top: 1px solid black ;
+    margin-top: 45px;
+    background-color: yellow;
+}
+.Atomic{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.name{
+    margin: auto;
+    margin-left: 10px;
+    font-size: 22px;
+    color: black;
+
+}
+.card-img-top{
+    object-fit: cover;
+    height: 100%;
+}
+.myclass{
+    margin: 0 auto;
+}
+
+.cl{
+    margin: 20px 0;
+}
+
+.centered{
+    text-align: center;
+    color:black;
+}
+.last-logo{
+    width: 50px;
+}
+
+.last-line{
+    border: 1px solid black;
+    height: 1px;
+}
+.last-logo{
+    height:50px;
+}
+.logo {
+    height: 30px;
+    width: 50px;
+    margin-right: 10px;
+}
